@@ -14,6 +14,12 @@ Sistema web desenvolvido para **armazenamento e gerenciamento de Trabalhos de Co
 - PHP
 
 ---
+## 📄 Licença
+
+Este projeto está licenciado sob os termos da licença MIT.  
+Consulte o arquivo [LICENSE](LICENSE.txt) para mais informações.
+
+---
 
 ## 📌 Funcionalidades
 
